@@ -1,3 +1,12 @@
+## How to build and run an image:
+1. Install Docker on your machine
+2. Clone repo
+3. Install make and run `make dbu` to build an image or copy and run command for that from Makefile.
+3. Install make and run `make dru` to run an image on localhost:3000 or copy and run command for that from Makefile.
+
+_______
+
+______
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
